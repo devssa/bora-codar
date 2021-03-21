@@ -1,29 +1,17 @@
----
-name: Novo episódio Podcast
-about: cadastro de episodio
-title: "[FRONT] INICIANTE"
-labels: ''
-assignees: devssa
+# | [Spotify]() |  [Deezer]() | [Google Podcast]() | [Anchor]() |
 
----
+### Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## Descrição do episodio
+### Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-- No episódio de hoje....
+### Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 ## Convidados
 
-- Fulano
+- [David Meth](https://www.linkedin.com/in/me42th/)
 
 
-## Dicas do episódio
 
-- Dica 1
+_Se quiser falar algo sobre o episodio, deixa um comentário na issue 🥇_ 
 
 
-## Onde nos encontrar:
-
-- [Spotify](cole aqui o link para o episódio)
-- [Deezer](cole aqui o link para o episódio)
-- [Google Podcast](cole aqui o link para o episódio)
-- [Anchor](cole aqui o link para o episódio)
